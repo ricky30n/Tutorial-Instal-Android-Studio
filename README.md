@@ -59,3 +59,10 @@ Saat pertama kali dijalankan, Android Studio akan meminta konfigurasi awal. Pili
 
 # Langkah 13: Android Studio Siap Digunakan
 Setelah semua konfigurasi selesai, tampilan utama Android Studio akan muncul. Sekarang kamu sudah siap membuat project Android pertamamu.
+
+
+
+# TUGAS MEMBUAT STORYBORD
+
+![WhatsApp Image 2025-09-25 at 09 24 43_85f1c03a](https://github.com/user-attachments/assets/c8c800c7-808f-42ec-8bd3-44195d516f7c)
+
